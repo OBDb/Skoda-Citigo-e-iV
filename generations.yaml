@@ -1,0 +1,8 @@
+references:
+  - "https://en.wikipedia.org/wiki/Volkswagen_Up"
+
+generations:
+  - name: "Citigo e iV (2019)"
+    start_year: 2019
+    end_year: 2020
+    description: "Skoda's battery-electric Citigo, built alongside the Volkswagen e-Up and SEAT Mii Electric with the same 32.3 kWh usable battery and electric drivetrain. It replaced the petrol Citigo and was sold for about two years."
